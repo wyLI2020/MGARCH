@@ -1,4 +1,4 @@
-# QDSPM
+# MGARCH
 
 ## Installation
 
